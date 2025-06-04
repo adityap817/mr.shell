@@ -1,4 +1,4 @@
-# Shell++ by adiicodes
+# Mr.Shell by adiicodes
 
 **An advanced, colorful command-line interpreter written in C++**
 
